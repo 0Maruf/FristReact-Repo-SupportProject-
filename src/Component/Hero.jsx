@@ -1,5 +1,6 @@
-import React from 'react';
-import viteLogo4 from '../assets/Hero.png'
+
+
+import viteLogo4 from '../assets/hero.png'
 import viteLogo5 from '../assets/paypal.png'
 import viteLogo6 from '../assets/google.png'
 import viteLogo7 from '../assets/dropbox.png'
